@@ -1,0 +1,48 @@
+html,
+body{
+    height: 100%;
+    font-size: 1rem;
+    font-family: 'Montserrat', sans-serif;
+    background: #f7e9d6;
+}
+
+.page-header-background{
+    background-image: url('../img/coffee-latte-with-cookies-and-coffiee-beans.jpg'); 
+    background-size:cover;
+    background-position: center;
+}
+
+.spanning{
+    height: 500px;
+}
+
+.description{
+    background-color: #f7e9d6;
+    font-size: 1.05rem;
+}
+
+.page-header{
+    margin-top: 3rem;
+    font-size: 1.25rem;
+    color: #fff;
+    
+}
+
+footer{
+    background-color: #5c4131;
+}
+
+.content-image-size{
+    width: 15rem;
+    height: 15rem;
+}
+
+.gradient{
+    background: rgb(7,4,3);
+    background: linear-gradient(180deg, rgba(7,4,3,1) 0%, rgba(92,65,49,1) 50%, rgba(7,4,3,1) 100%); 
+}
+
+i{
+    font-size: 1.3rem;
+    text-decoration: none;
+}
